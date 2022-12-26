@@ -1,3 +1,9 @@
+// SPDX-License-Identifier:MIT  
+
+// The above is important : note that the above should written in comment format only!
+
+/* SPDX (Software Package Data Exchange)--> It is a license identifier! (ex. MIT, APACHE etc) */
+
 // This line specifies the version of the Solidity compiler that should be used to compile the contract
 pragma solidity 0.8.8;
 
